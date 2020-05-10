@@ -16,15 +16,6 @@
 
 ![Preview](https://user-images.githubusercontent.com/17095595/79745789-5a940c00-8322-11ea-8cbe-990fb8b43868.jpg)
 
-**Licensing**
-Feel free to redistribute, modify and include it in both free and commercial releases of XnView MP
-
-**Release Notes**
-- I'd love to disable icons in drop-downs but I couldn't find a correct way to do it, let me know if you have any idea
-- Current theme appears to work correctly with Windows 7, Windows 10 version 1607 and version 1809
-- Dark Mode variation of this theme may be developed later on, however fell free to contribute
-- Please report issues or insights how to make it better
-
 **Installation for UI look as in previews**
 1. Copy files folder "Qt 5 Style Sheet & Settings"
    to folder %UserProfile%\AppData\Roaming\XnViewMP
@@ -39,5 +30,13 @@ Feel free to redistribute, modify and include it in both free and commercial rel
    to folder "C:\Program Files\XnView MP\UI"
 3. Launch XnView MP and select theme using menu
    "View > Theme > Dark theme", then close and reopen XnView MP
+   
+**Release Notes**
+- I'd love to disable icons in drop-downs but I couldn't find a correct way to do it, let me know if you have any idea
+- Current theme appears to work correctly with Windows 7, Windows 10 versions 1607 and 1809
+- Dark Mode variation of this theme may be developed later on, however fell free to contribute
+- Please report issues or insights how to make it better
+   
+**Licensing:** Feel free to redistribute, modify and include it in both free and commercial releases of XnView MP
 
 **Download:** [GitHub](https://github.com/bananakid/xnviewmp-w10-qss/blob/master/Windows%2010%20Light%20Mode%20Theme%200.1%20for%20XnView%20MP%200.96.7z)
