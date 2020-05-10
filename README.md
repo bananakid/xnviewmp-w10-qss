@@ -17,19 +17,19 @@
 ![Preview](https://user-images.githubusercontent.com/17095595/79745789-5a940c00-8322-11ea-8cbe-990fb8b43868.jpg)
 
 **Installation for UI look as in previews**
-1. Copy files folder "Qt 5 Style Sheet & Settings"
-   to folder %UserProfile%\AppData\Roaming\XnViewMP
-2. Copy folder "svg" from folder "UI Images"
-   to folder "C:\Program Files\XnView MP\UI"
+1. Copy files folder `Qt 5 Style Sheet & Settings`
+   to folder `%UserProfile%\AppData\Roaming\XnViewMP`
+2. Copy folder `svg` from folder `UI Images`
+   to folder `C:\Program Files\XnView MP\UI`
 
 **Installation for applying theme only and keeping your UI settings**
-1. Copy files "style_sheet.qss" and "style_sheet_win.qss"
-   from folder "Qt 5 Style Sheet & Settings"
-   to folder %UserProfile%\AppData\Roaming\XnViewMP
-2. Copy folder "svg" from folder "UI Images"
-   to folder "C:\Program Files\XnView MP\UI"
+1. Copy files `style_sheet.qss` and `style_sheet_win.qss`
+   from folder `Qt 5 Style Sheet & Settings`
+   to folder `%UserProfile%\AppData\Roaming\XnViewMP`
+2. Copy folder `svg` from folder `UI Images`
+   to folder `C:\Program Files\XnView MP\UI`
 3. Launch XnView MP and select theme using menu
-   "View > Theme > Dark theme", then close and reopen XnView MP
+   `View > Theme > Dark theme`, then close and reopen XnView MP
    
 **Release Notes**
 - I'd love to disable icons in drop-downs but I couldn't find a correct way to do it, let me know if you have any idea
