@@ -1,8 +1,8 @@
-# Windows 10 Light Mode Theme for XnView 0.96
+# Windows 10 Light Mode Theme for XnView 0.98
 
-**Version:** 0.1
+**Version:** 0.1.1
 
-**Release:** 20.04.2020
+**Release:** 10.01.2020
 
 **Description:** Quick essential fixes to XnView MP 0.96 default Qt 5.14.1 Style Sheet for Windows 10
 
@@ -39,4 +39,4 @@
    
 **Licensing:** Feel free to redistribute, modify and include it in both free and commercial releases of XnView MP
 
-**Download:** [GitHub](https://github.com/bananakid/xnviewmp-w10-qss/blob/master/Windows%2010%20Light%20Mode%20Theme%200.1%20for%20XnView%20MP%200.96.7z)
+**Download:** [GitHub](https://github.com/bananakid/xnviewmp-w10-qss/blob/master/Windows%2010%20Light%20Mode%20Theme%200.1.1%20for%20XnView%20MP%200.98.7z)
