@@ -29,7 +29,7 @@
 
 ### Release Notes
 
-1. In case you`d like to use your own settings, you will have set the following colors in `Settings` to make sure the file labels text are visible and readable in `Browser` view:
+1. In case you'd like to use your own settings, you will have set the following colors in `Settings` to make sure the file labels text are visible and readable in `Browser` view:
    - **Dark Mode**
      - `Browser` → `Preview background color` → `#202020`
      - `View` → `Background color` → `#202020`
@@ -39,9 +39,9 @@
      - `View` → `Background color` → `#F5F6F7`
      - `File list` → `Format colors` → enable `Use color based on file format` → `Default color 1` `#F5F6F7`, `Default color 2` `#000000`, disable `Use color based on file format`
 
-2. Both themes were tested with UI scaling at 200% in Windows 10, version 21H2 and with UI scaling at 100% with Windows 7 SP1, the appearence of themes when used with other operating systems and UI scaling may be not as advertised.
+2. Both themes were tested with UI scaling at 200% in Windows 10, version 21H2 and with UI scaling at 100% with Windows 7 SP1, the appearance of themes when used with other operating systems and UI scaling may be not as advertised.
 
-3. Separators of the toolbars were made invisible because **XnView MP** lacks any other toolbar spacers that can be used to group toolbat buttons nicely by blank spaces of different size.
+3. Separators of the toolbars were made invisible because **XnView MP** lacks any other toolbar spacers that can be used to group toolbar buttons.
 
 4. The file format colors aren't previewed in `Settings → File list → Format colors`.
 
