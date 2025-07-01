@@ -1,4 +1,4 @@
-## Windows 10 Dark & Light Mode Themes for XnView MP
+## Windows 10 Dark & Light Mode Themes for XnView MP 
 
 ![Promo_1_DM](https://github.com/user-attachments/assets/40cc78d1-67b9-41b3-b5c5-63778c9a4702)
 
