@@ -1,31 +1,25 @@
 ## Windows 10 Dark & Light Mode Themes for XnView MP
 
-![promo_1_dm.png](https://github.com/user-attachments/assets/c5b42419-2ceb-4da4-b176-0e122e264ce5)
+![Promo_1_DM](https://github.com/user-attachments/assets/40cc78d1-67b9-41b3-b5c5-63778c9a4702)
 
-![promo_1_lm.png](https://github.com/user-attachments/assets/c2699f3a-b8d2-4eff-a1bb-774285e66e7a)
+![Promo_1_LM](https://github.com/user-attachments/assets/d725fbdc-25d3-41d1-b078-022e9e8c60a3)
 
-![promo_2_dm.png](https://github.com/user-attachments/assets/c0c8cf8c-0389-4d8e-8ba7-33796a593498)
+![Promo_2_DM](https://github.com/user-attachments/assets/66ea444f-45e7-4570-9098-25f13a3341fe)
 
-![promo_2_lm.png](https://github.com/user-attachments/assets/2c857c0c-d037-4225-aeb0-46ec74830801)
+![Promo_2_LM](https://github.com/user-attachments/assets/ce07d684-28d4-4bb0-b013-fcc85956c667)
 
 ### Installation
 
 1. Delete all files & directories inside `UI` directory in **XnView MP** location, i.e. `C:\Program Files\XnView MP\UI`.
 
-2. Copy directory `ui\svg` to corresponding directory in **XnView MP** location, i.e. to `C:\Program Files\XnView MP\UI`.
+2. Extract `theme` directory to `%UserProfile%\AppData\Roaming\XnViewMP`.
 
-3. **XnView MP** doesn't provide a working UI to switch theme, so you have to do it manually:
-   - **Dark Mode**
-      - copy `dm\style_sheet.qss` to `%UserProfile%\AppData\Roaming\XnViewMP`
-   - **Light Mode**
-      - copy `lm\style_sheet.qss` to `%UserProfile%\AppData\Roaming\XnViewMP`
+3. If you'd like to get all the settings as shown in themes previews, you should extract files from `dm` or `lm` in `Settings` directory to `%UserProfile%\AppData\Roaming\XnViewMP` (please use installation step 4 and release note 1 if you want to keep your own settings):
+      - `xnview.ini` - general settings file (with default window sizes for all dialogs)
+      - `default.bar` - toolbars settings
+      - `default.cmenu` - context menu settings
 
-4. If you'd like to get all the settings as shown in themes previews, you should copy corresponding files from `dm` or `lm` directory to `%UserProfile%\AppData\Roaming\XnViewMP` (please see first release note below if you want to keep your own settings):
-   - `xnview.ini` - general settings file (with default sizes for XnView MP's windows)
-   - `default.bar` - toolbars settings
-   - `default.cmenu` - context menu settings
-
-5. If you skipped copying `xnview.ini`, then launch **XnView MP** and apply theme using `View → Theme → Old dark → Apply` and relaunch **XnView MP**.
+4. If you skipped copying `xnview.ini`, then launch **XnView MP** and apply theme using `Tools → Settings → General → Theme → 'Windows 10 Light' / 'Windows 10 Dark' → OK`, then relaunch **XnView MP**.
 
 ### Release Notes
 
@@ -43,13 +37,9 @@
 
 3. Separators of the toolbars were made invisible because **XnView MP** lacks any other toolbar spacers that can be used to group toolbar buttons.
 
-4. The file format colors aren't previewed in `Settings → File list → Format colors`.
+4. The "mouseover" design of the drop-down button of toolbar buttons and the slider indicator in dialogs will not use Windows 10 UI style, when the theme is used in Windows 7 SP1 (both elements will match Windows 7 UI style).
 
-5. Slight 'jump' of `Quick filter` may occur when this UI element is accessed by **XnView MP** for the first time during current session (i.e. when launching **XnView MP** in `Browser` view  with `Filelist toolbar` enabled in `View` menu).
-
-6. The "mouseover" design of the drop-down button of toolbar buttons and the slider indicator in dialogs will not use Windows 10 UI style, when the theme is used in Windows 7 SP1 (both elements will match Windows 7 UI style).
-
-7. Please use [this forum thread](https://newsgroup.xnview.com/viewtopic.php?f=61&t=40313) for feedback.
+5. Please use [this forum thread](https://newsgroup.xnview.com/viewtopic.php?f=61&t=40313) for feedback.
 
 ### Download
 
